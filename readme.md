@@ -2,7 +2,7 @@
 ### Diane Krychowski - ESILV CCC1
 
 
-To start the containeur, run:
+To start the containeur, run from terminal :
 ```
 docker-compose up 
 ```
